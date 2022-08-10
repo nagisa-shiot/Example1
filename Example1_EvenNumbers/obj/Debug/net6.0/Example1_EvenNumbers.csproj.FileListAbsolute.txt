@@ -1,0 +1,15 @@
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\obj\Debug\net6.0\Example1_EvenNumbers.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\obj\Debug\net6.0\Example1_EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\obj\Debug\net6.0\Example1_EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\obj\Debug\net6.0\Example1_EvenNumbers.AssemblyInfo.cs
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\obj\Debug\net6.0\Example1_EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\bin\Debug\net6.0\Example1_EvenNumbers.exe
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\bin\Debug\net6.0\Example1_EvenNumbers.deps.json
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\bin\Debug\net6.0\Example1_EvenNumbers.runtimeconfig.json
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\bin\Debug\net6.0\Example1_EvenNumbers.dll
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\bin\Debug\net6.0\Example1_EvenNumbers.pdb
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\obj\Debug\net6.0\Example1_EvenNumbers.dll
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\obj\Debug\net6.0\refint\Example1_EvenNumbers.dll
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\obj\Debug\net6.0\Example1_EvenNumbers.pdb
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\obj\Debug\net6.0\Example1_EvenNumbers.genruntimeconfig.cache
+C:\Users\danil\Desktop\Example1\Example1_EvenNumbers\obj\Debug\net6.0\ref\Example1_EvenNumbers.dll
