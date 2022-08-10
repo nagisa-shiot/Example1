@@ -1,2 +1,11 @@
-﻿int a =11; 
-Console.WriteLine(a % 2 == 0 ? "Четное" : "Не четное");
+﻿Console.WriteLine("Введите число:");
+num = Convert.ToInt32(Console.ReadLine());
+
+if (num % 2 == 1)
+{
+        Console.WriteLine("Число " + num + " является: НЕЧЁТНЫМ");
+}
+else
+{
+        Console.WriteLine("Число " + num + "является: ЧЁТНЫМ");
+}

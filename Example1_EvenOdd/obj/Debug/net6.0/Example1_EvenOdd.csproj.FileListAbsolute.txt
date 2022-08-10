@@ -1,0 +1,15 @@
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\bin\Debug\net6.0\Example1_EvenOdd.exe
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\bin\Debug\net6.0\Example1_EvenOdd.deps.json
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\bin\Debug\net6.0\Example1_EvenOdd.runtimeconfig.json
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\bin\Debug\net6.0\Example1_EvenOdd.dll
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\bin\Debug\net6.0\Example1_EvenOdd.pdb
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\obj\Debug\net6.0\Example1_EvenOdd.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\obj\Debug\net6.0\Example1_EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\obj\Debug\net6.0\Example1_EvenOdd.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\obj\Debug\net6.0\Example1_EvenOdd.AssemblyInfo.cs
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\obj\Debug\net6.0\Example1_EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\obj\Debug\net6.0\Example1_EvenOdd.dll
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\obj\Debug\net6.0\refint\Example1_EvenOdd.dll
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\obj\Debug\net6.0\Example1_EvenOdd.pdb
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\obj\Debug\net6.0\Example1_EvenOdd.genruntimeconfig.cache
+C:\Users\danil\Desktop\Example1\Example1_EvenOdd\obj\Debug\net6.0\ref\Example1_EvenOdd.dll
