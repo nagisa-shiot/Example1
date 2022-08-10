@@ -1,15 +1,13 @@
-﻿int a=5;
-int b=7;
+﻿Console.WriteLine("Введите первое число: ");
+int num_A = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите второе число: ");
+int num_B = Convert.ToInt32(Console.ReadLine());
 
-int max=a;
-int min=b;
-
-if (a>max) max=a;
-if (b>max) max=b;
-if (a<min) min=a;
-if (b<min) min=b;
-
-Console.Write("max=");
-Console.WriteLine(max);
-Console.Write("min=");
-Console.WriteLine(min);
+if (num_A > num_B)
+{
+        Console.WriteLine("Первое число " + num_A + " больше чем второе " + num_B);
+}
+else
+{
+        Console.WriteLine("Второе число " + num_B + " больше чем первое " + num_A);
+}
