@@ -7,7 +7,11 @@ if (num_A > num_B)
 {
         Console.WriteLine("Первое число " + num_A + " больше чем второе " + num_B);
 }
-else
+if (num_B> num_A)
 {
         Console.WriteLine("Второе число " + num_B + " больше чем первое " + num_A);
+}
+if  (num_A==num_B)
+{
+     Console.WriteLine( "Число"+ num_B + "равно" + num_A );
 }
